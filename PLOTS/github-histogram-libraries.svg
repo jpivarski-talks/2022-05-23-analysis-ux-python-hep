@@ -36,12 +36,13 @@
      fit-margin-right="5"
      fit-margin-bottom="5"
      inkscape:zoom="0.79776148"
-     inkscape:cx="394.29286"
-     inkscape:cy="219.57388"
+     inkscape:cx="499.63643"
+     inkscape:cy="196.25052"
      inkscape:window-x="2074"
      inkscape:window-y="72"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg941" />
+     inkscape:current-layer="svg941"
+     inkscape:snap-nodes="false" />
   <metadata
      id="metadata2">
     <rdf:RDF>
@@ -62,6 +63,20 @@
   <defs
      id="defs6"
      style="stroke-linecap:butt;stroke-linejoin:round">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1419"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#808080;stroke-width:1pt;stroke-opacity:1;fill:#808080;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
     <style
        type="text/css"
        id="style4">*{stroke-linejoin: round; stroke-linecap: butt}</style>
@@ -1888,12 +1903,12 @@
     </g>
     <text
        id="text4397"
-       y="327.79236"
-       x="811.97302"
+       y="324.26688"
+       x="811.0329"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:1.10000002;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2ca02c;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
        xml:space="preserve"><tspan
-         y="327.79236"
-         x="811.97302"
+         y="324.26688"
+         x="811.0329"
          style="fill:#2ca02c;fill-opacity:1;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
          id="tspan4395"
          sodipodi:role="line">YODA</tspan></text>
@@ -3597,22 +3612,6 @@
   </defs>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:1.10000002;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff7f0e;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
-     x="265.11688"
-     y="214.41199"
-     id="text2395"><tspan
-       sodipodi:role="line"
-       style="fill:#ff7f0e;fill-opacity:1;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
-       x="265.11688"
-       y="214.41199"
-       id="tspan4421">ROOT histograms</tspan><tspan
-       sodipodi:role="line"
-       style="fill:#ff7f0e;fill-opacity:1;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
-       x="265.11688"
-       y="234.21199"
-       id="tspan4425">(395 C++ files)</tspan></text>
-  <text
-     xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:1.10000002;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2ca02c;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
      x="191.78665"
      y="338.50925"
@@ -3625,31 +3624,36 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:1.10000002;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#9467bd;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
-     x="671.85114"
-     y="322.0708"
+     x="694.49084"
+     y="327.88269"
      id="text4328"><tspan
        sodipodi:role="line"
        id="tspan4326"
        style="fill:#9467bd;fill-opacity:1;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
-       x="671.85114"
-       y="322.0708">Coffea</tspan></text>
+       x="694.49084"
+       y="327.88269">histograms</tspan><tspan
+       sodipodi:role="line"
+       style="fill:#9467bd;fill-opacity:1;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
+       x="694.49084"
+       y="347.68268"
+       id="tspan1818">in Coffea</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:1.10000002;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1f77b4;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
-     x="-11.280242"
-     y="665.45868"
+     x="18.72851"
+     y="658.78412"
      id="text4332"
-     transform="rotate(-77.375624)"><tspan
+     transform="rotate(-75.074975)"><tspan
        sodipodi:role="line"
        style="fill:#1f77b4;fill-opacity:1;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
-       x="-11.280242"
-       y="665.45868"
+       x="18.72851"
+       y="658.78412"
        id="tspan4334">Boost::Histogram,</tspan><tspan
        sodipodi:role="line"
        style="fill:#1f77b4;fill-opacity:1;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
-       x="-11.280242"
-       y="685.25867"
-       id="tspan4338">hist, mplhep</tspan></text>
+       x="18.72851"
+       y="678.58411"
+       id="tspan4338">hist, mplhep combo</tspan></text>
   <text
      id="text4393"
      y="247.43063"
@@ -3664,30 +3668,40 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:1.10000002;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
-     x="503.4227"
-     y="302.23358"
+     x="368.98398"
+     y="121.72849"
      id="text4419"><tspan
        sodipodi:role="line"
        id="tspan4417"
        style="fill:#808080;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
-       x="503.4227"
-       y="302.23358">many!</tspan></text>
+       x="368.98398"
+       y="121.72849">mainstream Python adoption</tspan><tspan
+       sodipodi:role="line"
+       style="fill:#808080;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
+       x="368.98398"
+       y="141.52849"
+       id="tspan1392">in HEP: when many histogram</tspan><tspan
+       sodipodi:role="line"
+       style="fill:#808080;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
+       x="368.98398"
+       y="161.32849"
+       id="tspan1394">libraries lived and died</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:1.10000002;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#8c564b;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
-     x="353.15952"
-     y="331.10593"
+     x="349.39899"
+     y="332.98618"
      id="text2391"><tspan
        sodipodi:role="line"
-       id="tspan2389"
        style="fill:#8c564b;fill-opacity:1;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
-       x="353.15952"
-       y="331.10593">rootpy</tspan><tspan
+       x="349.39899"
+       y="332.98618"
+       id="tspan4427">histograms</tspan><tspan
        sodipodi:role="line"
        style="fill:#8c564b;fill-opacity:1;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
-       x="353.15952"
-       y="350.90591"
-       id="tspan4427">histograms</tspan></text>
+       x="349.39899"
+       y="352.78616"
+       id="tspan1828">in rootpy</tspan></text>
   <path
      inkscape:connector-curvature="0"
      id="path1409"
@@ -3707,4 +3721,40 @@
        y="17.595722">Analysis Ecosystem <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';fill:#800080;stroke-width:0.69076806;stroke-linecap:butt;stroke-linejoin:round"
    id="tspan1423">I</tspan></tspan></text>
+  <path
+     style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#808080;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+     d="m 470.06532,170.22584 64.86901,116.57621"
+     id="path1396"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.50000024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect1820"
+     width="56.877907"
+     height="23.033197"
+     x="110.93542"
+     y="273.6402" />
+  <rect
+     y="273.6402"
+     x="238.92653"
+     height="23.033203"
+     width="31.964443"
+     id="rect1824"
+     style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.50000024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.22361946px;line-height:1.10000002;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff7f0e;fill-opacity:1;stroke:none;stroke-width:0.59265083;stroke-linecap:butt;stroke-linejoin:round"
+     x="195.58885"
+     y="288.16345"
+     id="text2395"><tspan
+       sodipodi:role="line"
+       style="fill:#ff7f0e;fill-opacity:1;stroke-width:0.59265083;stroke-linecap:butt;stroke-linejoin:round"
+       x="195.58885"
+       y="288.16345"
+       id="tspan4421">histogram part of ROOT</tspan><tspan
+       sodipodi:role="line"
+       style="fill:#ff7f0e;fill-opacity:1;stroke-width:0.59265083;stroke-linecap:butt;stroke-linejoin:round"
+       x="195.58885"
+       y="303.80945"
+       id="tspan4425">(395 C++ files)</tspan></text>
 </svg>
